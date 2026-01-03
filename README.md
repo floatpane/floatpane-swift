@@ -1,7 +1,7 @@
 # floatpane
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/floatpane/floatpane/master/assets/icon.svg" alt="floatpane Logo" width="128">
+  <img src="assets/icon.svg" alt="floatpane Logo" width="128">
 </p>
 
 <h3 align="center">A lightweight, floating wallpaper selector for macOS.</h3>
@@ -17,7 +17,11 @@
 
 ## 🎬 Demo
 
-![floatpane Demo](https://raw.githubusercontent.com/floatpane/floatpane/master/assets/floatpane-preview.gif)
+
+
+https://github.com/user-attachments/assets/fe0e9d6e-1577-44ae-b183-48d6e8261f59
+
+
 
 ## ✨ Features
 
